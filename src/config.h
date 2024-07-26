@@ -6,7 +6,7 @@
 /**
  * Dimensions of the tiles that the image is subdivided into
  */
-#define TILE_SIZE 32
+#define TILE_SIZE 8
 /**
  * Number of runs to complete for benchmarking
  */
